@@ -51,7 +51,7 @@
 "J7","Interrupter","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1",""
 "J8","OCD TP","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","1",""
 "J9","Drive TP","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","1",""
-"J10","~","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","1",""
+"J10","","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","1",""
 "J11","Current Transformer","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","1",""
 "J12","GDT","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","1",""
 "J13","GDT","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","1",""
